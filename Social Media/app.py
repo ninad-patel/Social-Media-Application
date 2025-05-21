@@ -22,7 +22,7 @@ def create_connection():
 
 # Fetch live news from NewsAPI
 def fetch_live_news():
-    api_key = "e9589fd78cb4497198703d08422af256" 
+    api_key = "" # get api from "https://newsapi.org/"
     url = "https://newsapi.org/v2/top-headlines"
     params = {
         "country": "us",
