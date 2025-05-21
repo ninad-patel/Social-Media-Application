@@ -1,4 +1,4 @@
-# CODTECH-IT-SOLUTIONS-Task-2
+# Social Media Application
 
 Project Overview:-
 
